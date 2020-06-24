@@ -1,0 +1,36 @@
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\bin\Debug\SimpleDataBase.exe.config
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\bin\Debug\SimpleDataBase.exe
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\bin\Debug\SimpleDataBase.pdb
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.csprojAssemblyReference.cache
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.MainForm.resources
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.Properties.Resources.resources
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.csproj.GenerateResource.cache
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.csproj.CoreCompileInputs.cache
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.exe
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.pdb
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.AddForm.resources
+E:\.STUDY\OOP\Laba10 Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.SearchForm.resources
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\bin\Debug\SimpleDataBase.exe.config
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\bin\Debug\SimpleDataBase.exe
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\bin\Debug\SimpleDataBase.pdb
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.csprojAssemblyReference.cache
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.AddForm.resources
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.MainForm.resources
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.Properties.Resources.resources
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.SearchForm.resources
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.csproj.GenerateResource.cache
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.csproj.CoreCompileInputs.cache
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.exe
+E:\.STUDY\OOP\Simple Data Base\SimpleDataBase\obj\Debug\SimpleDataBase.pdb
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.csprojAssemblyReference.cache
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.exe
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.pdb
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\bin\Debug\SimpleDataBase.exe.config
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\bin\Debug\SimpleDataBase.exe
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\bin\Debug\SimpleDataBase.pdb
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.AddForm.resources
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.MainForm.resources
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.Properties.Resources.resources
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.SearchForm.resources
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.csproj.GenerateResource.cache
+C:\Users\егор\Desktop\дист\ооп\oop-lab4-LevasyukDY-master\SimpleDataBase\obj\Debug\SimpleDataBase.csproj.CoreCompileInputs.cache
